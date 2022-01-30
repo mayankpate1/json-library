@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1641650959 source:d:\code modules\temp\test\json_parser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641835975 source:d:\code modules\c\tested\json_parser\json.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"json.h"
+
+1641829351 d:\code modules\c\tested\json_parser\json.h
+	<stdbool.h>
+
+1641835611 source:d:\code modules\c\tested\json_parser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"json.h"
+
